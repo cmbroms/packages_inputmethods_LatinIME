@@ -15,6 +15,9 @@
 -->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+        <color name="key_hint_letter_color">@android:color/holo_blue_light</color>
+        <color name="key_hint_label_color">#A0FFFFFF</color>
+    
     <!-- Color resources for default, and Gingerbread theme. -->
     <color name="highlight_color_default">#FFFCAE00</color>
     <color name="highlight_translucent_color_default">#99FCAE00</color>
